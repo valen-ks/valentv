@@ -1,0 +1,1 @@
+Valen TV for Media Station X\nDeploy this folder using Netlify Drop. Set the resulting public URL in Media Station X > Settings > Start Parameter. This version treats the supplied M3U8 URL as one HLS video source. If it is a channel playlist, a full playlist player will be needed.\n
